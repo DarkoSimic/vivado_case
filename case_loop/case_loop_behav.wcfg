@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="case_loop_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="case_loop" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="1744001fs"></ZoomEndTime>
+      <Cursor1Time time="779666fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="103"></NameColumnWidth>
+      <ValueColumnWidth column_width="72"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="3" />
+   <wvobject fp_name="/case_loop/input1" type="array">
+      <obj_property name="ElementShortName">input1[1:0]</obj_property>
+      <obj_property name="ObjectShortName">input1[1:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/case_loop/output1" type="logic">
+      <obj_property name="ElementShortName">output1</obj_property>
+      <obj_property name="ObjectShortName">output1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/case_loop/N" type="other">
+      <obj_property name="ElementShortName">N</obj_property>
+      <obj_property name="ObjectShortName">N</obj_property>
+   </wvobject>
+</wave_config>
